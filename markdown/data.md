@@ -1,2 +1,2 @@
 # markdown
-[홈으로](readme.md)
+[홈으로](../readme.md)
